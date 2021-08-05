@@ -1,0 +1,9 @@
+body {
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+
+canvas {
+    border-radius: 10px;
+    margin-top: 10%;
+}
